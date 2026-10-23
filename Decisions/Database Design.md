@@ -4,6 +4,11 @@ tags:
   - architecture
   - database
 status: accepted
+relationships:
+  - type: depends_on
+    target: Components/SQLite.md
+  - type: depends_on
+    target: Components/SQLAlchemy.md
 ---
 
 # Database Design

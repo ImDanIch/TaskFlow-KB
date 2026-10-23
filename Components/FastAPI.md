@@ -4,6 +4,9 @@ tags:
   - backend
   - api
 status: active
+relationships:
+  - type: uses
+    target: Components/Pydantic.md
 ---
 
 # FastAPI

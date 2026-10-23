@@ -4,6 +4,17 @@ tags:
   - architecture
   - taskflow
 status: active
+relationships:
+  - type: uses
+    target: Components/FastAPI.md
+  - type: uses
+    target: Components/Pydantic.md
+  - type: uses
+    target: Components/SQLAlchemy.md
+  - type: uses
+    target: Components/SQLite.md
+  - type: implements
+    target: Concepts/REST API.md
 ---
 
 # TaskFlow Architecture

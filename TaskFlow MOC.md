@@ -14,6 +14,7 @@ status: active
 
 - [[REST API]]
 - [[TaskFlow Architecture]]
+- [[MCP Integration Test]]
 
 ## Компоненти (Components)
 

@@ -4,6 +4,9 @@ tags:
   - database
   - backend
 status: active
+relationships:
+  - type: uses
+    target: Components/SQLite.md
 ---
 
 # SQLAlchemy
